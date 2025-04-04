@@ -96,9 +96,3 @@ La segmentación realizada con K-Means permite identificar perfiles de clientes 
 # Contacto
 
 Para dudas o sugerencias: paulobaeza2@gmail.com
-
-# Vista rápida
-
-Si no tienes Jupyter, puedes ver una versión estática del notebook aquí:
-
-👉 [Ver archivo HTML](segmentacion_clientes.html)
